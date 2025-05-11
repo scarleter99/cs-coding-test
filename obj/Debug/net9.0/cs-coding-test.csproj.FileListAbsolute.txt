@@ -1,0 +1,14 @@
+C:\Users\ddino\WorkSpace\cs-coding-test\bin\Debug\net9.0\cs-coding-test.exe
+C:\Users\ddino\WorkSpace\cs-coding-test\bin\Debug\net9.0\cs-coding-test.deps.json
+C:\Users\ddino\WorkSpace\cs-coding-test\bin\Debug\net9.0\cs-coding-test.runtimeconfig.json
+C:\Users\ddino\WorkSpace\cs-coding-test\bin\Debug\net9.0\cs-coding-test.dll
+C:\Users\ddino\WorkSpace\cs-coding-test\bin\Debug\net9.0\cs-coding-test.pdb
+C:\Users\ddino\WorkSpace\cs-coding-test\obj\Debug\net9.0\cs-coding-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddino\WorkSpace\cs-coding-test\obj\Debug\net9.0\cs-coding-test.AssemblyInfoInputs.cache
+C:\Users\ddino\WorkSpace\cs-coding-test\obj\Debug\net9.0\cs-coding-test.AssemblyInfo.cs
+C:\Users\ddino\WorkSpace\cs-coding-test\obj\Debug\net9.0\cs-coding-test.csproj.CoreCompileInputs.cache
+C:\Users\ddino\WorkSpace\cs-coding-test\obj\Debug\net9.0\cs-coding-test.dll
+C:\Users\ddino\WorkSpace\cs-coding-test\obj\Debug\net9.0\refint\cs-coding-test.dll
+C:\Users\ddino\WorkSpace\cs-coding-test\obj\Debug\net9.0\cs-coding-test.pdb
+C:\Users\ddino\WorkSpace\cs-coding-test\obj\Debug\net9.0\cs-coding-test.genruntimeconfig.cache
+C:\Users\ddino\WorkSpace\cs-coding-test\obj\Debug\net9.0\ref\cs-coding-test.dll

@@ -1,0 +1,6 @@
+Builds/
+.cph/
+.cphcsrun/
+CodingTest/
+
+*.bin
