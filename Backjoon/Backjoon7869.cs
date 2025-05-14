@@ -40,7 +40,8 @@ public class Backjoon7869
             // 각 원에서의 교차부 부채꼴 각도 (radian)
             double alpha = 2 * Math.Acos((r1 * r1 + d * d - r2 * r2) / (2 * r1 * d));
             double beta  = 2 * Math.Acos((r2 * r2 + d * d - r1 * r1) / (2 * r2 * d));
-
+            Console.WriteLine(alpha);
+            Console.WriteLine(beta);
             // 부채꼴 넓이에서 삼각형 넓이(중심-교점-교점)를 뺀 값
             double area1 = 0.5 * r1 * r1 * (alpha - Math.Sin(alpha));
             double area2 = 0.5 * r2 * r2 * (beta  - Math.Sin(beta));

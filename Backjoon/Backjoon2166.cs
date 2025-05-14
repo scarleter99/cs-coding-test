@@ -3,7 +3,6 @@ using System.IO;
 using System.Linq;
 using System.Collections.Generic;
 
-
 public class Backjoon2166
 {
     static void Main(string[] args)
@@ -30,7 +29,7 @@ public class Backjoon2166
             sum += x[i] * y[i + 1] - x[i + 1] * y[i]; 
         }
 
-        double area = Math.Abs(sum) / 2.0;
+        double area = Math.Abs(sum) * 0.5;
         // 소수점 아래 둘째 자리에서 반올림하여 첫째 자리까지 출력
         string output = Math.Round(area, 1).ToString("F1");
         Console.WriteLine(output);

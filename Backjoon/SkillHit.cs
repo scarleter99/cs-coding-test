@@ -1,9 +1,9 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Linq;
 using System.Collections.Generic;
 
-public class Coding
+public class SkillHit
 {
     static void Main(string[] args)
     {
@@ -14,7 +14,7 @@ public class Coding
         double x3 = 3;
         double y3 = 3;
         double r = 3;
-        double ceta = 45;
+        double ceta = 30;
 
         double dx = x3 - x1;
         double dy = y3 - y1;
